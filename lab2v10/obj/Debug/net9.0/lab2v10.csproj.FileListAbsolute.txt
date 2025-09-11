@@ -1,0 +1,14 @@
+C:\Users\User\Documents\OOP-VoronyukDmytro\lab2v10\bin\Debug\net9.0\lab2v10.exe
+C:\Users\User\Documents\OOP-VoronyukDmytro\lab2v10\bin\Debug\net9.0\lab2v10.deps.json
+C:\Users\User\Documents\OOP-VoronyukDmytro\lab2v10\bin\Debug\net9.0\lab2v10.runtimeconfig.json
+C:\Users\User\Documents\OOP-VoronyukDmytro\lab2v10\bin\Debug\net9.0\lab2v10.dll
+C:\Users\User\Documents\OOP-VoronyukDmytro\lab2v10\bin\Debug\net9.0\lab2v10.pdb
+C:\Users\User\Documents\OOP-VoronyukDmytro\lab2v10\obj\Debug\net9.0\lab2v10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\OOP-VoronyukDmytro\lab2v10\obj\Debug\net9.0\lab2v10.AssemblyInfoInputs.cache
+C:\Users\User\Documents\OOP-VoronyukDmytro\lab2v10\obj\Debug\net9.0\lab2v10.AssemblyInfo.cs
+C:\Users\User\Documents\OOP-VoronyukDmytro\lab2v10\obj\Debug\net9.0\lab2v10.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\OOP-VoronyukDmytro\lab2v10\obj\Debug\net9.0\lab2v10.dll
+C:\Users\User\Documents\OOP-VoronyukDmytro\lab2v10\obj\Debug\net9.0\refint\lab2v10.dll
+C:\Users\User\Documents\OOP-VoronyukDmytro\lab2v10\obj\Debug\net9.0\lab2v10.pdb
+C:\Users\User\Documents\OOP-VoronyukDmytro\lab2v10\obj\Debug\net9.0\lab2v10.genruntimeconfig.cache
+C:\Users\User\Documents\OOP-VoronyukDmytro\lab2v10\obj\Debug\net9.0\ref\lab2v10.dll
