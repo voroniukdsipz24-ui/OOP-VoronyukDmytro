@@ -13,7 +13,7 @@ class Program
             new Dog("Бадді", 400, 2, "Бульдог"),
             new Cat("Барсик", 250, 3, false)
         };
-
+        Console.OutputEncoding = System.Text.Encoding.UTF8;
         Console.WriteLine("=== Симуляція тварин ===\n");
 
         foreach (var animal in animals)
